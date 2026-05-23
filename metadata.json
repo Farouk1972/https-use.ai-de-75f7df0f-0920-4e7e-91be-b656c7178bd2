@@ -1,0 +1,6 @@
+{
+  "name": "Polyglot Academy Builder",
+  "description": "An interactive index and lesson management dashboard for Polyglot Academy, featuring 4,200 lessons across 7 languages and 6 CEFR levels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
